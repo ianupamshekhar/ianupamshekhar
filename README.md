@@ -7,7 +7,7 @@
 <a href="https://twitter.com/ianupamshekhar">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:ianupamshekhar@gmail.com.com">
+<a href="mailto:ianupamshekhar@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.instagram.com/ianupamshekhar/">
