@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/ianupamshekhar/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook/ianupamshekhar/">
+<a href="https://www.facebook.com/ianupamshekhar/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
