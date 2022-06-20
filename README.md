@@ -1,5 +1,5 @@
 
-## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anupam!](https://bit.ly/anupamshekhar-website) 
+## Hey there <img src="https://komarev.com/ghpvc/?username=vedantkarle&label=Profile%20views&color=0e75b6&style=flat" width="29px">, I'm [Anupam!](https://bit.ly/anupamshekhar-website) 
 
 <a href="https://www.linkedin.com/in/anupamshekhar/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
