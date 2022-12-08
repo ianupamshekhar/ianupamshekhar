@@ -1,7 +1,7 @@
 
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://ianupamshekhar.github.io/"> Anupam</a>!
 
-⚡ Relishes learning new stuff<br>👯 Open to opportunities<br>🌱 Currently learning Web3<br>💬 Say Hi!
+⚡ Relishes learning new stuff<br>👯 Open to work/contribution opportunities<br>🌱 Currently learning Web3<br>💬 Say Hi!
 
 <a href="https://www.linkedin.com/in/anupamshekhar/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
