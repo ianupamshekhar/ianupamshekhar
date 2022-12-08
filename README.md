@@ -3,6 +3,8 @@
 
 ⚡Relishes learning new stuff<br>🔭 Open to work/contribution opportunities<br>🌱 Currently learning Web3<br>💬 Say Hi!
 
+### Connect with me:
+
 <a href="https://www.linkedin.com/in/anupamshekhar/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
