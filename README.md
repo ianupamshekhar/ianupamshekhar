@@ -1,7 +1,7 @@
 
-Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://ianupamshekhar.github.io/"> Anupam</a>!
+## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://ianupamshekhar.github.io/"> Anupam</a>!
 
-`⚡Relishes learning new stuff`<br>`🔭 Open to work/contribution opportunities`<br>`🌱 Currently learning DSA and Web3`<br>`🐈‍⬛ And oh, I love cats`
+⚡Relishes learning new stuff<br>🔭 Open to work/contribution opportunities<br>🌱 Currently learning DSA and Web3<br>🐈‍⬛ And oh, I love cats
 
 !Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianupamshekhar&show_icons=true&theme=cobalt)
 
