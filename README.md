@@ -3,7 +3,7 @@
 
 ⚡Relishes learning new stuff<br>🔭 Open to work/contribution opportunities<br>🌱 Currently learning DSA and Web3<br>🐈‍⬛ And oh, I love cats
 
-### Connect with me:
+### Connect with me 💬:
 
 <a href="https://www.linkedin.com/in/anupamshekhar/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
