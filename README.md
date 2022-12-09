@@ -3,7 +3,7 @@
 
 ⚡Relishes learning new stuff<br>🔭 Open to work/contribution opportunities<br>🌱 Currently learning DSA and Web3<br>🐈‍⬛ And oh, I love cats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianupamshekhar&layout=compact)](https://github.com/ianupamshekhar/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianupamshekhar&layout=compact)](https://github.com/ianupamshekhar/github-readme-stats) -->
 
 ![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianupamshekhar&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)
 
