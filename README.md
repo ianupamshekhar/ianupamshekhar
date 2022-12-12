@@ -10,19 +10,24 @@
 ### Connect with me 💬
 
 <a href="https://www.linkedin.com/in/anupamshekhar/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-128.png"  />
 </a>
+<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
 <a href="https://twitter.com/ianupamshekhar">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-128.png" />
+<!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 </a>
 <a href="mailto:ianupamshekhar@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-128.png" />
+<!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg -->
 </a>
 <a href="https://www.instagram.com/ianupamshekhar/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="26px" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-128.png" />
+<!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg -->
 </a>
 <a href="https://www.facebook.com/ianupamshekhar/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" width="26px" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-128.png" />
+<!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
 </a>
 
 <br />
