@@ -7,7 +7,7 @@
 
 <!-- ![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianupamshekhar&count_private=true&include_all_commits=true&show_icons=true&theme=algolia) -->
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/anomius/anomius/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
