@@ -19,6 +19,12 @@
 </p>
 </div>
 
+### Tools and Technologies ⚙️
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+
 <!-- <a href="https://www.linkedin.com/in/anupamshekhar/">
   <img align="left" width="24px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
