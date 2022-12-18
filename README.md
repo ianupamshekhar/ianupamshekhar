@@ -45,6 +45,17 @@
 <a href="https://html.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> 
 </a>
+<br>
+<a href="https://html.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> 
+</a>
+<a href="https://html.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+</a>
+<a href="https://html.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-origina" width="40" height="40"/> 
+</a>
+
 
          
                                                                                                                                                      
