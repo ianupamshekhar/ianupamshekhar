@@ -12,9 +12,9 @@
 ### Connect with me 💬
 
 <div align="center">
-   <p><a href="https://www.linkedin.com/in/swaraj-purohit-718033194/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-   <a href="https://twitter.com/swarajpurohit" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-   <a href="https://www.instagram.com/savvy_the_fatnerd/" target="_blank"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+   <p><a href="https://www.linkedin.com/in/anupamshekhar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+   <a href="https://twitter.com/ianupamshekhar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+   <a href="https://www.instagram.com/ianupamshekhar/" target="_blank"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 </div>
 
