@@ -13,7 +13,7 @@
 
 <div align="center">
    
-   <p><a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathamesh.chavanpsc2018@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL AT prathamesh.chavanpsc2018@gmail.com"/></a>
+   <p><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ianupamshekhar@gmail.com" target="blank"><src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail at ianupamshekhar@gmail.com"/></a>
       <a href="https://www.linkedin.com/in/anupamshekhar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
    <a href="https://twitter.com/ianupamshekhar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
    <a href="https://www.instagram.com/ianupamshekhar/" target="_blank"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
