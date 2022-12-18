@@ -32,7 +32,8 @@
 <!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
 </a>
 
-<img alt="Page counter" src="https://profile-counter.glitch.me/ianupamshekhar/count.svg">
+<!-- ### Visitors
+<img alt="Page counter" src="https://profile-counter.glitch.me/ianupamshekhar/count.svg"> -->
 
 <br />
 <br />
