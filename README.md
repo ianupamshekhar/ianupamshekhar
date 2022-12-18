@@ -7,7 +7,7 @@
 
 <!-- ![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianupamshekhar&count_private=true&include_all_commits=true&show_icons=true&theme=algolia) -->
 
-![Snake animation](https://github.com/ianupamshekhar/ianupamshekhar}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ianupamshekhar/ianupamshekhar/blob/output/github-contribution-grid-snake.svg)
 
 ### Connect with me 💬
 
