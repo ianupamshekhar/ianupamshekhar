@@ -30,7 +30,7 @@
 <!-- <a href="https://www.facebook.com/ianupamshekhar/">
   <img align="left" width="26px" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-128.png" />
 <!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
-</a> -->
+</a>
 
 <!-- ### Visitors
 <img alt="Page counter" src="https://profile-counter.glitch.me/ianupamshekhar/count.svg"> -->
