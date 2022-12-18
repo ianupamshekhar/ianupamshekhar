@@ -33,35 +33,35 @@
 <a href="https://html.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://reactjs.org/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://nodejs.org/en/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://expressjs.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> 
 </a>
 <br>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://www.linux.org/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://git-scm.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://code.visualstudio.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://www.mysql.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
 </a>
-<a href="https://html.com/" target="_blank"> 
+<a href="https://www.mysql.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> 
 </a>
 
