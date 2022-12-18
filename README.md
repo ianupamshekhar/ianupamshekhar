@@ -7,6 +7,10 @@
 
 <!-- ![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianupamshekhar&count_private=true&include_all_commits=true&show_icons=true&theme=algolia) -->
 
+<p align="center">
+  <img src="https://github.com/anomius/anomius/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 ### Connect with me 💬
 
 <a href="https://www.linkedin.com/in/anupamshekhar/">
@@ -29,12 +33,6 @@
   <img align="left" width="26px" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-128.png" />
 <!--   https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg -->
 </a>
-
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=anomius&bg_color=101113&color=6D8C8C&line=708E8E&point=C5BEB3&area=true&hide_border=true" />
-<p align="center">
-  <img src="https://github.com/anomius/anomius/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 
 <br />
 <br />
