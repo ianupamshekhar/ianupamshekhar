@@ -53,9 +53,11 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
 </a>
 <a href="https://html.com/" target="_blank"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-origina" width="40" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 </a>
-
+<a href="https://html.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
+</a>
 
          
                                                                                                                                                      
