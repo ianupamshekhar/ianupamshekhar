@@ -7,7 +7,7 @@
 
 <!-- ![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianupamshekhar&count_private=true&include_all_commits=true&show_icons=true&theme=algolia) -->
 
-![Snake animation](https://github.com/ianupamshekhar/ianupamshekhar/blob/output/github-contribution-grid-snake.svg)
+
 
 ### Connect with me 💬
 
@@ -64,6 +64,8 @@
 <a href="https://firebase.google.com/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> 
 </a>
+
+![Snake animation](https://github.com/ianupamshekhar/ianupamshekhar/blob/output/github-contribution-grid-snake.svg)
 
 
 
