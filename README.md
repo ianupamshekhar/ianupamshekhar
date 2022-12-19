@@ -68,7 +68,7 @@
 <!-- 
 ![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianupamshekhar&count_private=true&include_all_commits=true&show_icons=true&theme=algolia) -->
 
-## 🏆 GitHub Trophies
+### GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=ianupamshekhar&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ![Snake animation](https://github.com/ianupamshekhar/ianupamshekhar/blob/output/github-contribution-grid-snake.svg)
