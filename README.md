@@ -71,7 +71,7 @@
 ### GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=ianupamshekhar&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-![Snake animation](https://github.com/ianupamshekhar/ianupamshekhar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ianupamshekhar/ianupamshekhar/blob/output/github-contribution-grid-snake.svg) 
 
 
 
