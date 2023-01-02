@@ -4,7 +4,7 @@
 
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anupam
 
-📫 Reach me out: ianupamshekhar@gmail.com<br> ⚡Relishes learning new stuff<br> 🔭 Open to work/contribution opportunities<br> 🌱 Currently learning DSA and Web3<br> 🏙️ [My Github Skyline: Contribution in 3D, VR & IRL](https://skyline.github.com/ianupamshekhar/2022)<br> :octocat: [My Resume/CV](https://anupamshekhar.tech/resume.pdf)
+📫 Reach me out: ianupamshekhar@gmail.com<br> ⚡Relishes learning new stuff<br> 🔭 Open to work/contribution opportunities<br> 🌱 Currently learning DSA and Web3<br> 🏙️ [My Github Skyline: Contribution in 3D, VR & IRL](https://skyline.github.com/ianupamshekhar/2022)<br> :octocat: [My Resume/CV](https://anupamshekhar.tech/resume.pdf)<br> 🐈‍⬛ And oh, I love cats!
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianupamshekhar&layout=compact)](https://github.com/ianupamshekhar/github-readme-stats) -->
 
