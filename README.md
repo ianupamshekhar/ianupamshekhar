@@ -9,7 +9,8 @@
 - 🔭 Open to work/contribution opportunities
 - 🌱 Currently learning DSA and Web3
 - 🏙️ [My Github Skyline: Contribution in 3D, VR & IRL](https://skyline.github.com/ianupamshekhar/2022)
-- 🐈‍⬛ And oh, I love cats
+- :octocat: [My Resume/CV](https://anupamshekhar.tech/resume.pdf)
+- https://anupamshekhar.tech/resume.pdf
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianupamshekhar&layout=compact)](https://github.com/ianupamshekhar/github-readme-stats) -->
 
