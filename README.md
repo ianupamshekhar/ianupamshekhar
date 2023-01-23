@@ -1,5 +1,5 @@
 <a href="https://ianupamshekhar.github.io/" target="_blank">
-<img src="bannerv2.png"/>
+<img src="banner.png"/>
 </a>
 
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anupam!
