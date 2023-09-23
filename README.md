@@ -36,8 +36,7 @@
 -->
 
 <!-- ### Thanks for visiting! 🎉
-![Visitors](https://profile-counter.glitch.me/ianupamshekhar/count.svg) -->
+![Visitors](https://profile-counter.glitch.me/ianupamshekhar/count.svg) 
 
----
 
-❤️ If you found my GitHub useful or interesting, please consider giving it a star. Thanks!
+❤️ If you found my GitHub useful or interesting, please consider giving it a star. Thanks! -->
