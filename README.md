@@ -5,7 +5,7 @@
 - 🔭 Open to work and collaboration opportunities.
 - 🐈‍⬛ Fun fact: I love cats!
 
-⚡ [View my Github Skyline](https://skyline.github.com/ianupamshekhar)
+🌆 [View my Github Skyline](https://skyline.github.com/ianupamshekhar)
 
 ### Let's Connect 💬
 <div align="center">
@@ -15,15 +15,21 @@
    <a href="https://www.instagram.com/ianupamshekhar/" target="_blank"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-### Languages
+### Languages and Databses
 <!-- your language icons here -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img src="https://icons8.com/icon/20680/java" width="40" height="40"/> 
+<img src="https://icons8.com/icon/10686/python" width="40" height="40"/> 
+<img src="https://icons8.com/icon/8255/c-plus-plus" width="40" height="40"/> 
+<img src="https://icons8.com/icon/10686/python" width="40" height="40"/> 
+<img src="https://icons8.com/icon/10686/python" width="40" height="40"/> 
 
-### Frameworks & Libraries
+
+
+### Web and Mobile Technology
 <!-- your framework and library icons here -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
 
-### Tools
+### Frameworks and Tools
 <!-- your tool icons here -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 
