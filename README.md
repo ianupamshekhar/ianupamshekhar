@@ -31,8 +31,8 @@
 <!-- Example: -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 
-### Thanks for visiting! 🎉
-![Visitors](https://profile-counter.glitch.me/ianupamshekhar/count.svg)
+<!-- ### Thanks for visiting! 🎉
+![Visitors](https://profile-counter.glitch.me/ianupamshekhar/count.svg) -->
 
 ---
 
