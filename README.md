@@ -1,9 +1,9 @@
-# Hey, I'm Anupam :octocat:
+# :octocat: Hey, I'm Anupam 
 
-- 📬 Reach me out at: ianupamshekhar@gmail.com
-- 📚 Currently diving deep into DSA and Web3.
-- 🔭 Open to work and collaboration opportunities.
-- 🐈‍⬛ Fun fact: I love cats!
+📬 Reach me out at: ianupamshekhar@gmail.com
+📚 Currently diving deep into DSA and Web3.
+🔭 Open to work and collaboration opportunities.
+🐈‍⬛ Fun fact: I love cats!
 
 ⚡ [View my Github Skyline](https://skyline.github.com/ianupamshekhar)
 
