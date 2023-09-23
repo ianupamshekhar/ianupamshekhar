@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Anupam Shekhar - Aspiring Software Developer!
+# Hey, I'm Anupam :octocat:
 
-- 👨‍💻 I'm passionate about cutting-edge technologies.
+- 📬 Reach me out at: ianupamshekhar@gmail.com
 - 📚 Currently diving deep into DSA and Web3.
-- 💼 Open to work and collaboration opportunities.
-- 🐱 Fun fact: I love cats!
+- 🔭 Open to work and collaboration opportunities.
+- 🐈‍⬛ Fun fact: I love cats!
 
-📝 [Check out my Resume/CV](https://anupamshekhar.tech/resume.pdf)<br>
-🔍 [View my Github Skyline](https://skyline.github.com/ianupamshekhar)
+⚡ [View my Github Skyline](https://skyline.github.com/ianupamshekhar)
 
-### Let's Connect! 🌐
+### Let's Connect 💬
 <div align="center">
    <!-- Add your social links here -->
    <a href="https://www.linkedin.com/in/anupamshekhar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,17 +17,14 @@
 
 ### Languages
 <!-- your language icons here -->
-<!-- Example: -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 
 ### Frameworks & Libraries
 <!-- your framework and library icons here -->
-<!-- Example: -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
 
 ### Tools
 <!-- your tool icons here -->
-<!-- Example: -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 
 <!-- ### Thanks for visiting! 🎉
